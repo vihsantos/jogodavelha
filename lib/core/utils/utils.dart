@@ -24,7 +24,7 @@ void showGameDialog(BuildContext context, String text) {
                 Navigator.pop(context);
               },
               child: const Text(
-                'Play Again',
+                'Jogue novamente!',
               ),
             ),
           ],
